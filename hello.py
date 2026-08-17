@@ -1,1 +1,2 @@
-print(hello,preethika)
+print("hello,preethika")
+print("hiii,preethi")
